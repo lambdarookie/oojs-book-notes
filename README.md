@@ -1,3 +1,3 @@
 # 🚨 This repository moved!
 
-You can find it here: https://github.com/lkbaerenfaenger/oojs-book-notes
+You can find it here: https://github.com/typeduke/oojs-book-notes
